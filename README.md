@@ -1,5 +1,5 @@
 # Darcula-Konsole
-Darcula color scheme for Konsole (KDE terminal emulator)
+Darcula color scheme from JetBrains' IntelliJ for Konsole (KDE terminal emulator)
 
 ## Installation
 
